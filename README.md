@@ -4,7 +4,9 @@
   </a>
   <h1 align="center">SimplyArch Installer (UEFI & BIOS)</h1>
   <p align="center">
-    La manera más sencilla de instalar un sistema Arch Linux base sin bloatware 
+    La manera más sencilla de instalar un sistema Arch Linux base sin bloatware.
+    </br>
+    Traducción al español del <a href="https://github.com/victor-bayas/simplyarch">script original de Victor Bayas</a>
   </p>
 </p>
 
