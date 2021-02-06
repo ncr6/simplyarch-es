@@ -36,7 +36,7 @@ EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O 
 - Conéctese a internet.
 - Particione el disco con la herramienta de su elección.
 - Instale `git` con el comando `pacman -Sy git`
-- Clone este repositorio, utilizando el comando `git clone https://github.com/victor-bayas/simplyarch`
+- Clone este repositorio, utilizando el comando `git clone https://github.com/ncr6/simplyarch-es`
 - Ejecute el script con `./simplyarch-uefi.sh` y siga las instrucciones en pantalla.
 # ¿Y luego? ❓
 - Instale los controladores no incluidos con el kernel si su hardware lo requiere (por ejemplo, Nvidia, Broadcom, VAAPI, etc.).
